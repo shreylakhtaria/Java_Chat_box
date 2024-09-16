@@ -85,6 +85,3 @@ Third-semester Computer Science Engineering student at CSPIT, CSE department.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can modify sections like the repository name, your GitHub link, or details about the project if needed. Let me know if you'd like to adjust anything!
